@@ -5,11 +5,11 @@
 <hr/>
 <p align="center">• Autorskie boty DISCORD •</p>
 <p align="center">• Autorskie strony WWW •</p>
-<p align="center">• Skrypty/Pluginy w pod serwery typu: | fivem | roblox | mta | cs:go | •</p>
-<p align="center">• Konfiguracja bazy danych przepisywanie botów discord pod bazę danych •</p>
+<p align="center">• Skrypty/Pluginy pod serwery typu: | fivem | roblox | mta | cs:go | •</p>
+<p align="center">• Konfiguracja bazydanych przepisywanie botów discord pod bazędanych •</p>
 <hr/>
 <br/>
-<h3 align="center">× Jakich języków używam ×</h3>
+<h3 align="center">× Jakich języków oraz bazdanych używam ×</h3>
 <hr/>
 <p align="center">
 <img draggable="false" alt="JavaScript" width="50px" src="https://imgur.com/msn7dGi.png" />
