@@ -12,7 +12,7 @@
 <h3 align="center">× Jakich języków oraz bazdanych używam ×</h3>
 <hr/>
 <p align="center">
-<img draggable="false" alt="JAVA" width="50px" src="https://imgur.com/pLaVL6N.png" />
+<img draggable="false" alt="JAVA" width="50px" src="https://imgur.com/R27SCSQ.png" />
 <img draggable="false" alt="JavaScript" width="50px" src="https://imgur.com/msn7dGi.png" />
 <img draggable="false" alt="HTML" width="50px" src="https://imgur.com/s3NIj4N.png" />
 <img draggable="false" alt="CSS" width="50px" src="https://imgur.com/Mhf3x54.png" />
