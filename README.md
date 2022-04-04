@@ -1,15 +1,7 @@
 
-<h3 align="center">» Witaj jestem kicpeross «</h3>
-
-<h3 align="center">× Czym się zajmuje ×</h3>
-<hr/>
-<p align="center">• Autorskie boty DISCORD •</p>
-<p align="center">• Autorskie strony WWW •</p>
-<p align="center">• Skrypty/Pluginy pod serwery typu: | fivem | roblox | mta | cs:go | •</p>
-<p align="center">• Konfiguracja bazydanych przepisywanie botów discord pod bazędanych •</p>
-<hr/>
+<h3 align="center">» Hello im kicpeross «</h3>
 <br/>
-<h3 align="center">× Jakich języków oraz bazdanych używam ×</h3>
+<h3 align="center">× Tools and languages ×</h3>
 <hr/>
 <p align="center">
 <img draggable="false" alt="JAVA" width="50px" src="https://imgur.com/R27SCSQ.png" />
@@ -23,7 +15,7 @@
 </p>
 <hr/>
 <br/>
-<h3 align="center">× Moje statystyki ×</h3>
+<h3 align="center">× Statistics ×</h3>
 <hr/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross&layout=compact" alt="kicpeross" /></p>
 <hr/>
