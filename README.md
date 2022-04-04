@@ -14,7 +14,6 @@
 <img draggable="false" alt="MYSQL" width="50px" src="https://imgur.com/AEr81sg.png" />
 </p>
 <hr/>
-<br/>
 <h3 align="center">× Statistics ×</h3>
 <hr/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross&layout=compact" alt="kicpeross" /></p>
