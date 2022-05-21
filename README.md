@@ -3,7 +3,6 @@
 <h3 align="center">» Hello im kicpeross «</h3>
 <hr/>
 <h3 align="center">× Tools and languages ×</h3>
-<hr/>
 <p align="center">
 <img draggable="false" alt="JAVA" width="50px" title="Java" src="https://imgur.com/R27SCSQ.png" />
 <img draggable="false" alt="JavaScript" width="50px" title="JavaScript" src="https://imgur.com/msn7dGi.png" />
@@ -16,6 +15,5 @@
 </p>
 <hr/>
 <h3 align="center">× Statistics ×</h3>
-<hr/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kicpeross&layout=compact" alt="kicpeross" /></p>
 <hr/>
