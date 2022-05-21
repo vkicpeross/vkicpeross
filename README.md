@@ -1,6 +1,7 @@
 
 <hr/>
 <h3 align="center">» Hello im kicpeross «</h3>
+<hr/>
 <h3 align="center">× Tools and languages ×</h3>
 <hr/>
 <p align="center">
