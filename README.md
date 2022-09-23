@@ -3,6 +3,7 @@
   <h3 align="center">Languages and Tools</h3>
 </p>
 <p align="center">
+  <img align="center" src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
   <img draggable="false" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img draggable="false" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
   <img draggable="false" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
