@@ -1,6 +1,5 @@
 
 <img src="https://i.imgur.com/dicdaJk.png"/>
-<hr/>
 <h3 align="center">× Tools and languages ×</h3>
 <p align="center">
 <img draggable="false" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
