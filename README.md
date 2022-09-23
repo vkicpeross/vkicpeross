@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src='https://i.imgur.com/dicdaJk.png'/>
-  <h3 align="center">test</h3>
+  <h1 align="center">Discord: kicpeross#0001</h1>
 </p>
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
