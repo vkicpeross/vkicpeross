@@ -1,12 +1,12 @@
 <p align="center">
-  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
 </p>
 <p align="center">
   <img src='https://i.imgur.com/dicdaJk.png'/>
 </p>
 
 <p align="center">
-  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
   <h3 align="center">• Languages and Tools •</h3>
 </p>
 
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
     <h3 align="center">• Github statistics •</h3>
 </p>
 
@@ -41,5 +41,5 @@
 </div>
 
 <p align="center">
-  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
 </p>
