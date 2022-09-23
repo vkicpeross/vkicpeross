@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
-    <h3 align="center">• Github statistics •</h3>
+    <h3 align="center">• Github Statistics •</h3>
 </p>
 
 <div align= "center">
