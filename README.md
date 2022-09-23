@@ -1,6 +1,6 @@
 <p align="center">
   <img src='https://i.imgur.com/dicdaJk.png'/>
-  <h3 align="center">Languages and Tools</h3>
+  <h3 align="center">• Languages and Tools •</h3>
 </p>
 
 <p align="center">
