@@ -31,6 +31,7 @@
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
     <h3 align="center">• Github statistics •</h3>
 </p>
+<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=vkicpeross&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/></div>
 
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'>
