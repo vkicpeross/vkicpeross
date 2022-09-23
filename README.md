@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/discord bot-7289DA?style=for-the-badge&logo=Discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Front End-7289DA?style=for-the-badge&logo=website&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front End-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 <p align="center">
