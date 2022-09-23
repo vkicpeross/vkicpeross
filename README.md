@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/dicdaJk.png" width="30px"/>
+<img src="https://i.imgur.com/dicdaJk.png"/>
 <hr/>
 <h3 align="center">× Tools and languages ×</h3>
 <p align="center">
