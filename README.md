@@ -35,6 +35,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/discord bot-7289DA?style=for-the-badge&logo=Discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Front-End-7289DA?style=for-the-badge&logo=Website&logoColor=white" />
 </p>
 
 <p align="center">
