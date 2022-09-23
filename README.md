@@ -31,6 +31,15 @@
 
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
+    <h3 align="center">• My Service •</h3>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-239120?style=for-the-badge&logo=Discord&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
     <h3 align="center">• Github Statistics •</h3>
 </p>
 
