@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://i.imgur.com/dicdaJk.png" width="600" height="300"/>
+  <img src="https://i.imgur.com/dicdaJk.png" width="600" height="600"/>
 </div>
 <h3 align="center">× Tools and languages ×</h3>
 <p align="center">
