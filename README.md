@@ -6,7 +6,6 @@
 </p>
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
-  <h3 align="center">• Languages and Tools •</h3>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,7 +27,6 @@
 </p>
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
-    <h3 align="center">• My Service •</h3>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/discord bot-7289DA?style=for-the-badge&logo=Discord&logoColor=white" />
@@ -37,7 +35,6 @@
 </p>
 <p align="center">
   <img src='https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3.5'>
-    <h3 align="center">• Github Statistics •</h3>
 </p>
 <div align= "center">
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=vkicpeross&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/>
