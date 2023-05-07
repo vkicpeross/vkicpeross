@@ -30,7 +30,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/discord bot-7289DA?style=for-the-badge&logo=Discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/Minecraft plugins-7289DA?style=for-the-badge&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Front End-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Back End-5A29E4?style=for-the-badge&logo=axios&logoColor=61DAFB" />
 </p>
